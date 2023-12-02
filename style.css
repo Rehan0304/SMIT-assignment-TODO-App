@@ -1,0 +1,13 @@
+body{
+    background: url(./assets/th.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#todoinput{
+    display: inline-block;
+    width: 20%;
+    margin: 12px 12px 12px 320px;
+}
+#todolist{
+    margin: 12px 12px 12px 320px;
+}
